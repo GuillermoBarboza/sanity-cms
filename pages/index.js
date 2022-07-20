@@ -7,7 +7,7 @@ export default function IndexPage({ categories }) {
         <h1>Sanity + Next.js</h1>
       </header>
       <main>
-        <h2>categories</h2>
+        <h2>categories??</h2>
         {categories.length > 0 && (
           <ul>
             {categories.map((category) => (
